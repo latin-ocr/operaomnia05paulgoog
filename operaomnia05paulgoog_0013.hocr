@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia05paulgoog_0013.png"; bbox 0 0 4236 6404; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 450 965 1502 1178">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 450 965 1502 1178">
+     <span class='ocr_line' id='line_1_1' title="bbox 450 965 1502 1178; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 450 968 762 1178; x_wconf 67' lang='lat' dir='ltr'>JANA</span> <span class='ocrx_word' id='word_1_2' title='bbox 835 965 1502 1178; x_wconf 76' lang='lat' dir='ltr'><strong>DLUGOSZA·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 606 1390 1417 1536">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 606 1390 1417 1536">
+     <span class='ocr_line' id='line_1_2' title="bbox 606 1390 1417 1536; baseline -0.002 -24"><span class='ocrx_word' id='word_1_3' title='bbox 606 1399 871 1512; x_wconf 79' lang='lat' dir='ltr'>Kanonika</span> <span class='ocrx_word' id='word_1_4' title='bbox 907 1398 1303 1536; x_wconf 74' lang='lat' dir='ltr'>Krakowskiego</span> <span class='ocrx_word' id='word_1_5' title='bbox 1414 1390 1417 1398; x_wconf 75' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 186 1707 1730 2233">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 186 1707 1730 2233">
+     <span class='ocr_line' id='line_1_3' title="bbox 186 1707 1730 2233; baseline -0.002 -213"><span class='ocrx_word' id='word_1_6' title='bbox 186 1707 885 2020; x_wconf 80' lang='lat' dir='ltr'>DZIEJOW</span> <span class='ocrx_word' id='word_1_7' title='bbox 984 1751 1730 2233; x_wconf 79' lang='lat' dir='ltr'>POLSKIOH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 695 2219 1228 2352">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 695 2219 1228 2352">
+     <span class='ocr_line' id='line_1_4' title="bbox 695 2219 1228 2352; baseline -0.002 -24"><span class='ocrx_word' id='word_1_8' title='bbox 695 2245 862 2352; x_wconf 84' lang='lat' dir='ltr'><strong>KSIAG</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 893 2247 1102 2328; x_wconf 82' lang='lat' dir='ltr'><strong>DWANA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1104 2219 1228 2329; x_wconf 70' lang='lat' dir='ltr'><strong>Sem.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 777 5206 1159 5290">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 777 5206 1159 5290">
+     <span class='ocr_line' id='line_1_5' title="bbox 777 5206 1159 5290; baseline 0.005 -4"><span class='ocrx_word' id='word_1_11' title='bbox 777 5209 825 5286; x_wconf 89' lang='lat' dir='ltr'>W</span> <span class='ocrx_word' id='word_1_12' title='bbox 859 5206 1159 5290; x_wconf 84' lang='lat' dir='ltr'>KRAKOWIE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2122 6404">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2122 6404">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2122 6404; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2122 6404; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
